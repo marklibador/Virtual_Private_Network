@@ -1,6 +1,7 @@
 <p align="center">
   
-![image](https://github.com/CarlosAlvarado0718/VPN-NETWORK/assets/140138198/07ac1b82-c83d-4984-be1b-87d0b8afa619)
+![image](https://github.com/marklibador/Virtual_Private_Network/assets/37192566/ee998b51-461c-438f-b3d0-56adf2748c50)
+
 
 </p>
 
@@ -31,7 +32,8 @@ We'll set up our own Virtual Private Network (VPN)
 - Go to [www.whatismyipaddress.com]](https://whatismyipaddress.com/)
 - Remember your Public IP Address and City
 
-![image](https://github.com/CarlosAlvarado0718/VPN-NETWORK/assets/140138198/3f18088c-9478-4f5d-b8cc-6a04be2d88ed)
+![image](https://github.com/marklibador/Virtual_Private_Network/assets/37192566/b26f08c6-92a0-4d45-88b8-fb826165f82c)
+
 
 - Go into MicroSoft Azure
 - Create an Azure Virtual Machine
